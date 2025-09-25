@@ -1,5 +1,7 @@
 // BOJ - 7795 먹을 것인가 먹힐 것인가
 
+// https://github.com/encrypted-def/basic-algo-lecture/blob/master/0x0F/solutions/7795.cpp <- 또 다른 풀이 개 신박함 꼭 봐야함
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
